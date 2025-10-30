@@ -7,6 +7,8 @@ import pdfplumber
 import csv
 from difflib import SequenceMatcher
 # Eine Klasse für die GUI-Anwendung
+# das ist ein Test Git und Git HUB 30Nov2025  9:03
+
 class RegattaExtractor:
     def __init__(self, root):
         self.root = root
