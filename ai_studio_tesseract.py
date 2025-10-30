@@ -68,7 +68,7 @@ class App(tk.Tk):
         try:
             self.setup_database()
             
-            files_to_import = glob.glob("ER_Schokinag28Apr2025_Seite_0*.jpeg")
+            files_to_import = glob.glob("C:\Ablage_C\python_work\Git_Test630Nov\ER_Schokinag28Apr2025_Seite_0*.jpeg")
             if not files_to_import:
                 messagebox.showinfo("Information", "Keine 'ER_Schokinag28Apr2025_Seite_0*.jpeg' Dateien gefunden.")
                 return
