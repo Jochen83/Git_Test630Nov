@@ -11,7 +11,7 @@ import pytesseract
 # müssen Sie den Pfad zur tesseract.exe hier angeben.
 # Entfernen Sie das '#' vor der nächsten Zeile und passen Sie den Pfad an.
 # Beispiel für Windows:
-# pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 
 class App(tk.Tk):
