@@ -1,0 +1,1 @@
+print("jetzt ist der kleine Haase gefragt!")
