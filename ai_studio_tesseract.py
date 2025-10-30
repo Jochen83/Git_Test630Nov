@@ -68,9 +68,9 @@ class App(tk.Tk):
         try:
             self.setup_database()
             
-            files_to_import = glob.glob("input_file_*.jpeg")
+            files_to_import = glob.glob("ER_Schokinag28Apr2025_Seite_0*.jpeg")
             if not files_to_import:
-                messagebox.showinfo("Information", "Keine 'input_file_*.jpeg' Dateien gefunden.")
+                messagebox.showinfo("Information", "Keine 'ER_Schokinag28Apr2025_Seite_0*.jpeg' Dateien gefunden.")
                 return
 
             self.progress["value"] = 0
