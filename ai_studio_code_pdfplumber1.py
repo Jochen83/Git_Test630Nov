@@ -6,8 +6,8 @@ import pdfplumber
 
 class App(tk.Tk):
     """
-    Eine GUI-Anwendung, mit der der Benutzer eine PDF-Datei auswählen kann,
-    um den Text daraus in eine SQLite-Datenbank zu importieren.
+    Eine GUI-Anwendung, mit der der Benutzer eine PDF-Datei auswählen kann, fffff
+    um den Text daraus in eine SQLite-Datenbank zu importieren. ddddd
     """
     def __init__(self):
         super().__init__()
