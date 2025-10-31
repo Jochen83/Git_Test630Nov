@@ -1,0 +1,5 @@
+1;Schnulli;SailNo;BoatName;Skipper;Club;Points
+2;Schnulli;GER 1234;Flying Fish;Max Mustermann;YCH;10
+3;Schnulli;GER 5678;Salty Dog;Erika Musterfrau;SCT;15
+4;Schnulli;AUT 9101;Windjammer;Hans Schmidt;YCB;22
+5;Schnulli;SUI 1112;Alinghi;Ernesto Bertarelli;SNG;5
